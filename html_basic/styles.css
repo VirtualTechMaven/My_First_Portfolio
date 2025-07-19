@@ -1,11 +1,19 @@
 body {
-  background-color: #f0f0f0;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
+  background-color: #fdfdfd;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  padding: 20px;
 }
-h1 {
-  color: #2c3e50;
+
+h1, h2, h3 {
+  color: #005288;
 }
+
 p {
-  color: #34495e;
+  margin-bottom: 15px;
+}
+
+a img {
+  margin-top: 20px;
+  border-radius: 10px;
 }
